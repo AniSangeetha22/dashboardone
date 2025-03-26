@@ -3,6 +3,7 @@
     {
       "id": "1",
       "name": "iphone12-graphit",
+       "des": "iphone 12 Graphit",
       "amt": 384,
       "totalNos": 10,
       "ftype": "iphone",
@@ -13,6 +14,7 @@
     {
       "id": "2",
       "name": "iphone12-Pro",
+       "des": "iphone 12 Pro",
       "amt": 456,
       "totalNos": 15,
       "ftype": "iphone",
@@ -23,6 +25,7 @@
     {
       "id": "3",
       "name": "iphone13",
+       "des": "iphone 13",
       "amt": 424,
       "totalNos": 10,
       "ftype": "iphone",
@@ -33,6 +36,7 @@
     {
       "id": "4",
       "name": "iphone13-blau",
+       "des": "iphone 13 Blau",
       "amt": 456,
       "totalNos": 10,
       "ftype": "iphone",
