@@ -1,0 +1,217 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Nunito Sans";
+  
+}
+#root{
+    width: 100%;
+}
+body{
+    /* width: 100%; */
+    height: 100vh;
+}
+.App{
+    width: 100%;
+ 
+    display: flex;
+    flex-direction: column;
+    background-color:#ffffff;
+
+}
+.side-left-bar{
+    width: 100%; 
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+   
+  
+
+} 
+
+.leftbar-main-menu{
+    width: 15%;
+    font-weight: 600;
+    font-style: bold;
+    font-size: 20px;
+    color: #525B75;
+    text-decoration: none solid rgba(82, 91, 117, 0.8);
+    text-align:start;
+    text-indent:0px;
+    letter-spacing: 0px;
+    text-align: left;
+    /* margin-left: 15px; */
+    cursor: pointer;
+    /* background-color: #E3E6E0; */
+}
+.leftbar-main-heading{
+    margin-top: 20px;
+    margin-left: 15px; 
+    /* margin-bottom: 3px; */
+    color: #36454F;
+}
+.leftbar-admin-submenu{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+   
+}
+.leftbar-admin-submenu-li{
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    color: #525B75;
+    text-decoration: none solid rgba(82, 91, 117, 0.8);
+    text-align:start;
+text-indent:0px;
+letter-spacing: 0px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+}
+.leftbar-admin-submenu-li span {
+margin-left: 5px;
+text-align: center;
+}
+
+.leftbar-admin-submenu-li:hover{
+    color:#aa571c;
+}
+
+.rightsidebar-class{
+    width: 85%;
+    height: 100vh;
+}
+
+
+
+
+
+/* Navbar CSS */
+
+.navbar-class{
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    justify-content:start;
+    border-bottom:1px solid gray ; 
+    align-items:center;
+    font-size:600;
+    color: #ccc;
+    
+}
+
+.nav-themes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 25px;
+    color: #ccc;
+    
+}
+.nav-themes li{
+    padding-right: 15px;
+    list-style: none;
+    color: #41362d;
+}
+.nav-themes ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    cursor: pointer;
+    
+}
+.nav-side-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    cursor: pointer;
+    padding-left: 30px;
+}
+.nav-side-heading img{
+    width: 35px;
+    height: 35px;
+   margin-top: 7px;
+   
+}
+.nav-side-heading li {
+    list-style: none;
+    color: #41362d;
+}
+.nav-side-heading span{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 26px;
+    color: #41362d;
+    text-decoration: none solid rgba(82, 91, 117, 0.8);
+    text-align:start;
+text-indent:0px;
+letter-spacing: 0px;
+}
+.nav-link {
+   display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  font-size: 20px;
+  color: #41362d;
+  font-style: normal;
+
+ } 
+
+ /* ----------------------------------------------------------------------------- */
+ 
+ .dropdownlogout{
+    position: absolute;
+    width: 150px;
+    height: 140px;
+    /* margin-top: 10px; */
+    /* margin-left: 1900px; */
+    margin-left: -50px;
+background-color: #ccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    cursor: pointer;
+    border:1px solid gray ; 
+    border-radius: 5px;
+ }
+ .dropdownlogout ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+    cursor: pointer;
+    list-style: none;
+    margin-top: 1px;
+    padding-left: 10px;
+ }
+
+ .dropdownli, .dropdownspan{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: #bc6c25;
+ }
+ .dropdownli:hover{
+    color: #44230c; 
+ }
+
+.dropdownspan:hover{
+    color: #44230c;
+ }
+
+
+
+

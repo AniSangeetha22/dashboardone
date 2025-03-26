@@ -1,0 +1,393 @@
+{
+  "totalorders": [
+    {
+      "id": "0759",
+      "orderList": [
+        {
+          "id": "a798",
+          "orderid": 1,
+          "name": "iphone12-graphit",
+          "ftype": "iphone",
+          "amt": 384,
+          "subamt": 768,
+          "value": 2
+        },
+        {
+          "id": "8b12",
+          "orderid": 2,
+          "name": "iphone13",
+          "ftype": "iphone",
+          "amt": 424,
+          "subamt": 1272,
+          "value": 3
+        }
+      ],
+      "total": 2040,
+      "quantity": 5,
+      "users": {
+        "id": "1",
+        "username": "Ani",
+        "email": "ani@gmail.com"
+      }
+    },
+    {
+      "id": "c40f",
+      "orderList": [
+        {
+          "id": "04bc",
+          "orderid": 1,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 980,
+          "subamt": 2940,
+          "value": 3
+        },
+        {
+          "id": "f38f",
+          "orderid": 2,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 854,
+          "subamt": 1708,
+          "value": 2
+        },
+        {
+          "id": "0f93",
+          "orderid": 3,
+          "name": "iphone12-Pro",
+          "ftype": "iphone",
+          "amt": 456,
+          "subamt": 1824,
+          "value": 4
+        }
+      ],
+      "total": 6472,
+      "quantity": 9,
+      "users": {
+        "id": "1",
+        "username": "Ani",
+        "email": "ani@gmail.com"
+      }
+    },
+    {
+      "id": "91dc",
+      "orderList": [
+        {
+          "id": "60d8",
+          "orderid": 1,
+          "name": "iphone12-graphit",
+          "ftype": "iphone",
+          "amt": 384,
+          "subamt": 768,
+          "value": 2
+        },
+        {
+          "id": "6f91",
+          "orderid": 2,
+          "name": "iphone12-Pro",
+          "ftype": "iphone",
+          "amt": 456,
+          "subamt": 1368,
+          "value": 3
+        },
+        {
+          "id": "fbeb",
+          "orderid": 3,
+          "name": "iPhone 14",
+          "ftype": "iphone",
+          "amt": 575,
+          "subamt": 2300,
+          "value": 4
+        },
+        {
+          "id": "0d2e",
+          "orderid": 4,
+          "name": "iPhone 16",
+          "ftype": "iphone",
+          "amt": 880,
+          "subamt": 2640,
+          "value": 3
+        },
+        {
+          "id": "aeee",
+          "orderid": 5,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 854,
+          "subamt": 1708,
+          "value": 2
+        },
+        {
+          "id": "bdd3",
+          "orderid": 6,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 980,
+          "subamt": 2940,
+          "value": 3
+        }
+      ],
+      "total": 11724,
+      "quantity": 17,
+      "users": {
+        "id": "3",
+        "username": "Sarah",
+        "email": "sarah@gmail.com"
+      }
+    },
+    {
+      "id": "670b",
+      "orderList": [
+        {
+          "id": "619e",
+          "orderid": 1,
+          "name": "iphone13",
+          "ftype": "iphone",
+          "amt": 424,
+          "subamt": 1272,
+          "value": 3
+        },
+        {
+          "id": "fc83",
+          "orderid": 2,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 854,
+          "subamt": 3416,
+          "value": 4
+        },
+        {
+          "id": "7a77",
+          "orderid": 3,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 456,
+          "subamt": 1368,
+          "value": 3
+        },
+        {
+          "id": "17f5",
+          "orderid": 4,
+          "name": "iPhone 16",
+          "ftype": "iphone",
+          "amt": 710,
+          "subamt": 1420,
+          "value": 2
+        },
+        {
+          "id": "a7ff",
+          "orderid": 5,
+          "name": "iPhone 16",
+          "ftype": "iphone",
+          "amt": "910",
+          "subamt": 1820,
+          "value": 2
+        }
+      ],
+      "total": 9296,
+      "quantity": 14,
+      "users": {
+        "id": "2",
+        "username": "Sahay",
+        "email": "sahay@gmail.com"
+      }
+    },
+    {
+      "id": "e7e3",
+      "orderList": [
+        {
+          "id": "e0bd",
+          "orderid": 1,
+          "name": "iphone13",
+          "ftype": "iphone",
+          "amt": 424,
+          "subamt": 1272,
+          "value": 3
+        },
+        {
+          "id": "068d",
+          "orderid": 2,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 854,
+          "subamt": 3416,
+          "value": 4
+        }
+      ],
+      "total": 4688,
+      "quantity": 7,
+      "users": {
+        "id": "3",
+        "username": "Sarah",
+        "email": "sarah@gmail.com"
+      }
+    },
+    {
+      "id": "d592",
+      "orderList": [
+        {
+          "id": "bd71",
+          "orderid": 1,
+          "name": "iPhone 14",
+          "ftype": "iphone",
+          "amt": 575,
+          "subamt": 1725,
+          "value": 3
+        },
+        {
+          "id": "e00e",
+          "orderid": 2,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 854,
+          "subamt": 3416,
+          "value": 4
+        },
+        {
+          "id": "14c4",
+          "orderid": 3,
+          "name": "Samsung Galaxy",
+          "ftype": "SamsungGalaxy",
+          "amt": 456,
+          "subamt": 2280,
+          "value": 5
+        },
+        {
+          "id": "8e66",
+          "orderid": 4,
+          "name": "iPhone 16",
+          "ftype": "iphone",
+          "amt": 710,
+          "subamt": 4260,
+          "value": 6
+        }
+      ],
+      "total": 11681,
+      "quantity": 18,
+      "users": {
+        "id": "6",
+        "username": "Jose",
+        "email": "jose@gmail.com"
+      }
+    },
+    {
+      "id": "f80e",
+      "orderList": [],
+      "total": 0,
+      "quantity": 0,
+      "users": {
+        "id": "6",
+        "username": "Jose",
+        "email": "jose@gmail.com"
+      }
+    },
+    {
+      "id": "9f71",
+      "orderList": [
+        {
+          "id": "fd33",
+          "orderid": 1,
+          "name": "Huawei matex6",
+          "ftype": "huawei",
+          "amt": 1345,
+          "subamt": 6725,
+          "value": 5
+        },
+        {
+          "id": "d070",
+          "orderid": 2,
+          "name": "Huawei Nova30",
+          "ftype": "huawei",
+          "amt": 549,
+          "subamt": 1647,
+          "value": 3
+        },
+        {
+          "id": "005a",
+          "orderid": 3,
+          "name": "Huawei p50 Pro",
+          "ftype": "huawei",
+          "amt": 528,
+          "subamt": 1056,
+          "value": 2
+        }
+      ],
+      "total": 9428,
+      "quantity": 10,
+      "users": {
+        "id": "6",
+        "username": "Jose",
+        "email": "jose@gmail.com"
+      }
+    },
+    {
+      "id": "56f8",
+      "orderList": [
+        {
+          "id": "30dd",
+          "orderid": 1,
+          "name": "Huawei mate50",
+          "ftype": "huawei",
+          "amt": 1256,
+          "subamt": 1256,
+          "value": 1
+        }
+      ],
+      "total": 1256,
+      "quantity": 1,
+      "users": {
+        "id": "7",
+        "username": "Raj",
+        "email": "raj@gmail.com"
+      }
+    },
+    {
+      "id": "c119",
+      "orderList": [
+        {
+          "id": "56a8",
+          "orderid": 1,
+          "name": "Samsung S24",
+          "ftype": "Samsung Galaxy",
+          "amt": 556,
+          "subamt": 1668,
+          "value": 3
+        },
+        {
+          "id": "70a2",
+          "orderid": 2,
+          "name": "Samsung S23",
+          "ftype": "Samsung Galaxy",
+          "amt": 468,
+          "subamt": 936,
+          "value": 2
+        },
+        {
+          "id": "c592",
+          "orderid": 3,
+          "name": "Huawei Nova30",
+          "ftype": "huawei",
+          "amt": 549,
+          "subamt": 2196,
+          "value": 4
+        },
+        {
+          "id": "2ef5",
+          "orderid": 4,
+          "name": "Huawei p50 Pro",
+          "ftype": "huawei",
+          "amt": 528,
+          "subamt": 1056,
+          "value": 2
+        }
+      ],
+      "total": 5856,
+      "quantity": 11,
+      "users": {
+        "id": 10,
+        "username": "David",
+        "email": "david@gmail.com"
+      }
+    }
+  ]
+}

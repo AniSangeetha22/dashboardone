@@ -1,0 +1,46 @@
+.mainhomepage {
+  display: flex;
+  flex-direction: column;
+}
+.mainhomepage h2 {
+  color: #bc6c25;
+}
+
+.amtinfo {
+  width: 90%;
+  padding-top: 10px;
+  text-align: left;
+  padding-left: 3%;
+  font-size: large;
+  font-weight: bolder;
+  color: #41362d;
+}
+.amtinfo div {
+  display: flex;
+}
+.amtinfo p {
+  margin-bottom: 2%;
+  width: 20%;
+}
+.amtinfo span {
+  margin-bottom: 2%;
+}
+.chartsdiv {
+  width: 90%;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+  justify-self: start;
+  align-items: start;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  padding: 20px;
+}
+.chartbox {
+  width: 40%;
+  height: 35vh;
+  border: 1px solid rgb(114, 46, 46);
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+}
